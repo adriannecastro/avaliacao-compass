@@ -25,7 +25,7 @@ Por que esse “erro” de “Untracked files” ocorreu e qual comando resolver
 problema?
 <br>
 Porque Product.js é um arquivo novo, ele acabou de criar. Untracked files significa arquivos novos, que ainda não foram adicionados ao repositório. Para resolver o problema, José precisa usar o comando git add Product.js 
-<br>
+<br><hr>
 3. O time de desenvolvimento analisou e descobriu que o projeto está gerando
 arquivos pesados e desnecessários para serem commitados no repositório git.
 Em qual arquivo você deve incluir a lista de extensões para que esses arquivos
@@ -34,11 +34,11 @@ desnecessários sejam desconsiderados?
 <br>
 Arquivo .gitignore
 
-<br>
+<br><hr>
 4. Com suas palavras, descreva as vantagens de utilizar o Scrum no seu projeto.
 <br>
 O Scrum permite que os projetos sejam construídos aos poucos, agregando novas funcionalidades de acordo com os testes validações dos produtos. Se alinha ao tempo de mercado, possibilitando entregas mais rápidas, com maior qualidade e redução de custos. Se baseia na definição de prioridades e em um acompanhamento por etapas do projeto, sempre com foco nas necessidades do cliente. Pode-se destacar a flexibilidade, abertura às mudanças, organização e comunicação da equipe. Ou seja, não há muita burocracia e formalidade. 
-<br>
+<br><hr>
 5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner do
 time, quais são suas novas responsabilidades como PO?
 <br>
