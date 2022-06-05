@@ -10,7 +10,7 @@ b. Planning: máximo oito horas para um Sprint de um mês. Para Sprints mais red
 c. Review: é limitada a um máximo de quatro horas para um Sprint de um mês. Para Sprints mais reduzidos, o evento é normalmente mais curto.
 <br>
 d. Retrospectiva: é limitada a um máximo de três horas para um Sprint de um mês. Para Sprints mais reduzidos, o evento é normalmente mais curto.
-<br>
+<br><hr>
 2. José iniciou sua jornada recentemente com git e não está conseguindo publicar
 seu arquivo README e a classe Product.js que acabou de criar. O erro do git dá
 a seguinte informação:
