@@ -29,18 +29,14 @@ Porque Product.js é um arquivo novo, ele acabou de criar. Untracked files signi
 3. O time de desenvolvimento analisou e descobriu que o projeto está gerando
 arquivos pesados e desnecessários para serem commitados no repositório git.
 Em qual arquivo você deve incluir a lista de extensões para que esses arquivos
-desnecessários sejam desconsiderados?
-
-<br>
+desnecessários sejam desconsiderados?<br>
 Arquivo .gitignore
 
 <br><hr>
-4. Com suas palavras, descreva as vantagens de utilizar o Scrum no seu projeto.
-<br>
+4. Com suas palavras, descreva as vantagens de utilizar o Scrum no seu projeto.<br>
 O Scrum permite que os projetos sejam construídos aos poucos, agregando novas funcionalidades de acordo com os testes validações dos produtos. Se alinha ao tempo de mercado, possibilitando entregas mais rápidas, com maior qualidade e redução de custos. Se baseia na definição de prioridades e em um acompanhamento por etapas do projeto, sempre com foco nas necessidades do cliente. Pode-se destacar a flexibilidade, abertura às mudanças, organização e comunicação da equipe. Ou seja, não há muita burocracia e formalidade. 
 <br><hr>
 5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner do
-time, quais são suas novas responsabilidades como PO?
-<br>
+time, quais são suas novas responsabilidades como PO?<br>
 Elaborar estratégia de um produto pensando quais recursos serão necessários, entendendo as funcionalidades e tecnologias disponíveis. Sua responsabilidade é organizar a melhor maneira para um produto ou aplicações serem feitas com qualidade, atendendo as expectativas de todos os stakeholders. Além de organizar, José quem vai decidir o que precisa ser priorizado dentro de um projeto, visando sempre o valor do produto. A partir disso, será criada uma estratégia e é responsabilidade do José acompanhar cada processo e evolução das etapas.
 
