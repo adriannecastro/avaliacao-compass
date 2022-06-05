@@ -1,5 +1,5 @@
 ## Avaliação I – PB 2022 – Springboot / Compass.uol
-<p>Adrianne</p>
+
 1. Baseado no Scrum Guide, qual o tempo máximo deveriam ter as seguintes
 cerimônias:
 <br>
@@ -26,10 +26,10 @@ problema?
 <br>
 Porque Product.js é um arquivo novo, ele acabou de criar. Untracked files significa arquivos novos, que ainda não foram adicionados ao repositório. Para resolver o problema, José precisa usar o comando git add Product.js 
 <br><hr>
-3. O time de desenvolvimento analisou e descobriu que o projeto está gerando
+**3. O time de desenvolvimento analisou e descobriu que o projeto está gerando
 arquivos pesados e desnecessários para serem commitados no repositório git.
 Em qual arquivo você deve incluir a lista de extensões para que esses arquivos
-desnecessários sejam desconsiderados?<br>
+desnecessários sejam desconsiderados?**<br>
 Arquivo .gitignore
 
 <br><hr>
