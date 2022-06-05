@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63b9bebd-ee18-4b2b-88d6-970d6b771039" name="Changes" comment="Avaliação Compass.uol" />
+    <list default="true" id="63b9bebd-ee18-4b2b-88d6-970d6b771039" name="Changes" comment="Avaliação Compass.uol">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,31 +61,11 @@
       <workItem from="1654284586651" duration="78000" />
       <workItem from="1654461601781" duration="275000" />
       <workItem from="1654461889172" duration="78000" />
+<<<<<<< HEAD
       <workItem from="1654462085905" duration="1379000" />
+=======
+>>>>>>> parent of 7c394dc (new commit)
     </task>
-    <task id="LOCAL-00001" summary="Avaliação Compass.uol">
-      <created>1654462348134</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1654462348134</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Avaliação Compass.uol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avaliação Compass.uol" />
   </component>
 </project>
