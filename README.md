@@ -1,7 +1,7 @@
-## Avaliação I – PB 2022 – Springboot / Compass.uol 
+## <p align = "center">Avaliação I – PB 2022 – Springboot / Compass.uol 📄 </p>
 
 **1. Baseado no Scrum Guide, qual o tempo máximo deveriam ter as seguintes
-cerimônias:**<br>
+cerimônias:**<br> 
 <br>
 **a. Daily:** *é um evento de 15 minutos.*
 <br>
